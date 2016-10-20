@@ -42,3 +42,5 @@ fabric.properties
 
 .DS_Store
 
+.idea/
+pka_pr.iml
